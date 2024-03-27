@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tshering Dorji
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Electronic and communication Engineering
-- 💞️ I’m looking to collaborate on UAVs anything related to Robotics
+- 🌱 Electronic and communication Engineering
 - 📫 How to reach me tsheringdorji336699@gmail.com
 
 <!---
