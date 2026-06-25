@@ -23,18 +23,27 @@ Engineering
 **College:** College of Science and Technology (CST).
 
 
-## Previous work
-1. Vitarana Drone(e-yantra Robotics Competitation 2019-2020)
-   
-   Programmed a drone to perform autonomous precision landing on an aero marker, enabling it to deliver goods efficiently and accurately.
+## Previous Work
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/9iwxHmlDowc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 1. Vitarana Drone (e-Yantra Robotics Competition 2019–2020)
 
-2. Strawberry Stacker(e-yantra Robotic Competitation 2021-2022).
-   
-   Competed to develop an autonomous program enabling two drones to dynamically coordinate and collaborate in picking and placing two different types of strawberry boxes into separate trucks as the boxes appeared on the field, implemented and tested in the Gazebo simulator.
+Developed and programmed an autonomous drone capable of performing precision landings on designated aero markers. The system enabled accurate and efficient package delivery through autonomous navigation and landing algorithms.
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/68vKYh8ZXnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" 
+src="https://www.youtube.com/embed/9iwxHmlDowc" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### 2. Strawberry Stacker (e-Yantra Robotics Competition 2021–2022)
+
+Developed autonomous control algorithms for two drones that dynamically coordinated and collaborated to pick and place two different types of strawberry boxes into separate trucks. The system was designed and tested in the Gazebo simulation environment, where the drones responded to boxes appearing dynamically on the field.
+
+<iframe width="600" height="400" 
+src="https://www.youtube.com/embed/68vKYh8ZXnU" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+picture-in-picture" allowfullscreen></iframe>
 
 3. I am a graduate of the Fab Academy, where I developed practical skills in digital fabrication, electronics design, embedded systems, computer-aided design, and prototyping through project-based learning.
 
@@ -43,5 +52,5 @@ Engineering
 
 4. I am also pleased to have co-authored the research paper, "Public Warning and Evacuation Experiences During Recent GLOF Events (2019 and 2023) and Recommendations for Future Preparedness: Insights from Lunana, Bhutan."
 
-    [Link to the paper]( https://www.sciencedirect.com/science/article/pii/S2212420926002232.)
+    [Here is the link to the published paper]( https://www.sciencedirect.com/science/article/pii/S2212420926002232.)
 
