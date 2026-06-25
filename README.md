@@ -36,10 +36,12 @@ Engineering
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/68vKYh8ZXnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. NAP-POD (My Fabacademy Project)
+3. I am a graduate of the Fab Academy, where I developed practical skills in digital fabrication, electronics design, embedded systems, computer-aided design, and prototyping through project-based learning.
 
-    [Check my Fabacadmey Journey Documentation here](https://fabacademy.org/2025/labs/bhutan/students/tshering-dorji/)
+    [Check my Fabacadmey Journey and final Project Documentation here](https://fabacademy.org/2025/labs/bhutan/students/tshering-dorji/)
 
 
+4. I am also pleased to have co-authored the research paper, "Public Warning and Evacuation Experiences During Recent GLOF Events (2019 and 2023) and Recommendations for Future Preparedness: Insights from Lunana, Bhutan."
 
+    [Link to the paper]( https://www.sciencedirect.com/science/article/pii/S2212420926002232.)
 
