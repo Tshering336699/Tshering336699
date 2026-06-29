@@ -1,6 +1,6 @@
 # About me
 
-![](./my%20profile.jpg)
+![](./tshering.jpg)
 
 *Hello! I am Tshering Dorji.*
 
